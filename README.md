@@ -21,6 +21,13 @@ I am a beginner specialist in the field of information security <img src="https:
 
 ---
 
+### :trophy: My achievements :
+
+> coming soon...
+
+
+---
+
 ### :hammer_and_wrench: My skills :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
