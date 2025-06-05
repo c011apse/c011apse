@@ -39,6 +39,13 @@ I am a beginner specialist in the field of information security <img src="https:
 
 ---
 
+<details>
+  <summary><h3>🥇 /Small_Victories</h3></summary>
+  <a href="https://linuxjourney.com/">|- Linux Journey/</a>
+</details>
+
+---
+
 ### :fire: My Stats :
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=c011apse&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
