@@ -42,7 +42,7 @@ I am a beginner specialist in the field of information security <img src="https:
 
 <details>
   <summary><h3>🥇 /Small_Victories</h3></summary>
-  <a href="https://linuxjourney.com/">|- Linux Journey/</a>
+  <!-- <a href="https://linuxjourney.com/">|- Linux Journey/</a> -->
 </details>
 
 ---
