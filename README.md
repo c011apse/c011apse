@@ -12,12 +12,12 @@
 
 ### :computer: About Me :
 I am a beginner specialist in the field of information security <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVlb245M21rMHlwcTIwbW9iMjE0Y2E1MzBpMm5pbDloNzZtd2s0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNpP80U2AJKDn1UDhP/giphy.gif" width='30'/>
-- 📚 I am learning ethical hacking, pentesting and system protection.
+<!-- - 📚 I am learning ethical hacking, pentesting and system protection.
 - 🧠 In the process of mastering: Network Security, Python, GNU/Linux.
 - 🐣 Future Ethical Hacker (still just a chick in the Infosec world).
 - 🛡️ I want to help make the digital world safer.
 
-***Goal***: I aim to work in pentest / Bug Bounty.
+***Goal***: I aim to work in pentest / Bug Bounty. -->
 
 ---
 
